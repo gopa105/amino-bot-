@@ -1,2 +1,2 @@
-# amino-bot-
+# amino-bot
 Another useless amino bot
